@@ -5,5 +5,5 @@ Integrantes del grupo:
 - Mariano LLanos
 - Matías Cattaneo
 - María Laura Bernaschini
-- Esteban
+- Esteban Arrúa
 - Florencia Cámara 
